@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         SplixPlus - Extension (Mod)
+// @name         TaxiModz (SLITHER.IO MOD)
 // @namespace    Splixplus.io
 // @version      1.5
 // @description  Splix.io Extension Zoom and Hacks
-// @author       Razor
+// @author       TaxiModz
 // @match        http://splix.io/
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
